@@ -4,7 +4,6 @@ class Emp{
     private int id ;
     private String name;
 
-
 // Default Constructor
     Emp(){
         id=0;
@@ -24,7 +23,6 @@ class Emp{
    public int getId(){
    return id;
    }
-  
 
 }
 
@@ -36,6 +34,5 @@ class Pro40{
         System.out.println(e1.getId()+" : "+e1.getName());
         System.out.println(e2.getId()+" : "+e2.getName());
         System.out.println(e3.getId()+" : "+e3.getName());
-
     }
 }
