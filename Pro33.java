@@ -23,7 +23,6 @@ System.out.println(str.lastIndexOf('a',2));
 System.out.println(str.equals("Shvam"));
 System.out.println(str.equalsIgnoreCase("Shvam"));
 
-
 }
 
 
