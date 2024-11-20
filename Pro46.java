@@ -18,7 +18,8 @@
 
 // import Pro46Package.AdvCalc;
 // import Pro46Package.Calc;
-// import Pro46Package.*;
+
+import Pro46Package.*;
 
 
 class Pro46{
