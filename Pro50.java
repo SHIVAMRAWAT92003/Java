@@ -1,3 +1,6 @@
+// Final keyword make variable constant ,final keyword make method to do method overriding ,final keywords make class not able to inherirtable
+
+
 final class A{
 
 final public void show(){
