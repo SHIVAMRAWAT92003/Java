@@ -17,8 +17,8 @@ public static void main(String args[]){
     //Logicals
     boolean res1 = num1>num2 && num2>num3;
     System.out.println(res1);
-    boolean res1 = num2>num3 || num1>num2;
-    System.out.println(res1);
+    boolean res2 = num2>num3 || num1>num2;
+    System.out.println(res2);
 
 
 

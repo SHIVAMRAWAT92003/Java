@@ -16,13 +16,13 @@ class B {
 
 }
 // we cant do multiple inheritance.
-class C extends B, A {
+// class C extends B, A {
 
-     public void fun3(){
-     System.out.println("Inside fun3 ");
-   }
+//      public void fun3(){
+//      System.out.println("Inside fun3 ");
+//    }
 
-}
+// }
 
 
 

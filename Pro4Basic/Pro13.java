@@ -1,3 +1,5 @@
+// Ternary operator
+
 class Pro13{
  
   public static void main(String args[]){

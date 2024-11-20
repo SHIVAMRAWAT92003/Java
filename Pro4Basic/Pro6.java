@@ -12,7 +12,7 @@ class Pro6{
 
     char c= 'A';
 
-    boolean bo =  True;
+    boolean bo =  true;
     
   }
 

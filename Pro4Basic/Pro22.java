@@ -1,3 +1,5 @@
+// class with different file name
+
 class Calc{
     int a;
      public int add(int n1,int n2){

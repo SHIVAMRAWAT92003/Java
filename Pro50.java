@@ -24,7 +24,7 @@ class Pro50{
       
         final int num =9;
         // num =10; ==>give error because final varaible value cant update.
-      
+        System.out.println(num);
 
     }
 }

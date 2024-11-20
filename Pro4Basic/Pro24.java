@@ -1,3 +1,5 @@
+// Class and obj
+
 class Comp{
 
     public void sing(){
