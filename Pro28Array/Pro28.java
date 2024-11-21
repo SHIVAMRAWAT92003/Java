@@ -5,6 +5,10 @@ import java.util.*;
 class Pro28{
     public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
+    
+int[] myNum = {10, 20, 30, 40};
+
+
 int num[]= new int[6];
 System.out.println("Input Values ");
 for(int i =0;i<num.length;i++){
