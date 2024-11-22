@@ -1,3 +1,18 @@
+
+
+we can define threads as a subprocess with lightweight with the smallest unit of processes and also has separate paths of execution.
+
+Advantages
+Improved performance: Threads allow applications to execute multiple tasks simultaneously, which can reduce processing time. 
+Faster context switching: Context switching is faster in threads than in processes
+
+
+DisAdvantages
+Debugging
+Debugging multithreaded programs can be more difficult than single-threaded programs because it can be hard to identify and reproduce errors.
+Security
+There is a potential for security problems because threads share resources. 
+
 Thread States in Java
 A thread is a path of execution in a program that goes through the following states of a thread. The five states are as follows:
 
