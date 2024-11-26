@@ -332,6 +332,38 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Update
 import javax.swing.*;
 import java.awt.*;
@@ -439,8 +471,11 @@ class CarRentalSystemGUI {
     }
 
     private void initializeCars() {
-        cars.add(new Car("C001", "Toyota", "Camry", 60.0));
-        cars.add(new Car("C002", "Mahindra", "Thar", 70.0));
+        cars.add(new Car("C001", "Toyota", "Camry", 1000.0));
+        cars.add(new Car("C002", "Mahindra", "Thar", 3000.0));
+        cars.add(new Car("C003", "XUV", "300", 4500.0));
+        cars.add(new Car("C004", "BMW", "X5", 7000.0));
+        cars.add(new Car("C005", "HONDA", "City", 4000.0));
     }
 
     private void initializeGUI() {
